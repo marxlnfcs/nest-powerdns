@@ -1,7 +1,7 @@
 {
   "name": "@marxlnfcs/nest-powerdns",
   "private": false,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "NestJS-Module for the @marxlnfcs/powerdns package",
   "license": "MIT",
   "scripts": {
