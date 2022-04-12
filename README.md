@@ -91,5 +91,5 @@ You can either set the url or host, port and protocol.
 | host          | Hostname of the proxy server.      | localhost              | None    |
 | port          | Port of the proxy server.          | 8080                   | None    |
 | protocol      | HTTP-Protocol of the proxy server. | https                  | http    |
-| auth.username | Username to authenticate with.     | 8080                   | None    |
-| auth.password | Password to authenticate with.     | 8080                   | None    |
+| auth.username | Username to authenticate with.     |                        | None    |
+| auth.password | Password to authenticate with.     |                        | None    |
